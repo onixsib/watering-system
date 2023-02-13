@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=8MHzatmega328",
+    "board": "arduino:avr:pro",
+    "port": "/dev/ttyUSB0",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "code/cpp/scanner.ino"
+}
